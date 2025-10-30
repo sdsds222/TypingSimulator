@@ -1,0 +1,2201 @@
+[
+  {
+    "target": "心情怎样和审美的不同，决定了你眼中的风景是什么模样。",
+    "final_output": "心情怎样和审美的不同，决定了你眼中的风景是什么模样。",
+    "typing_log": [
+      {
+        "time": 0,
+        "action": "ime_update",
+        "content": "x"
+      },
+      {
+        "time": 0.04,
+        "action": "ime_update",
+        "content": "xi"
+      },
+      {
+        "time": 0.215,
+        "action": "ime_update",
+        "content": "xin"
+      },
+      {
+        "time": 0.657,
+        "action": "ime_update",
+        "content": "xin'q"
+      },
+      {
+        "time": 1.011,
+        "action": "ime_update",
+        "content": "心情"
+      },
+      {
+        "time": 1.013,
+        "action": "type",
+        "content": "心情",
+        "method": "ime"
+      },
+      {
+        "time": 1.745,
+        "action": "ime_update",
+        "content": "z"
+      },
+      {
+        "time": 1.893,
+        "action": "ime_update",
+        "content": "ze"
+      },
+      {
+        "time": 2.019,
+        "action": "ime_update",
+        "content": "zen"
+      },
+      {
+        "time": 2.187,
+        "action": "ime_update",
+        "content": "zen'y"
+      },
+      {
+        "time": 2.618,
+        "action": "ime_update",
+        "content": "怎样"
+      },
+      {
+        "time": 2.62,
+        "action": "type",
+        "content": "怎样",
+        "method": "ime"
+      },
+      {
+        "time": 2.768,
+        "action": "ime_update",
+        "content": "h"
+      },
+      {
+        "time": 2.855,
+        "action": "ime_update",
+        "content": "he"
+      },
+      {
+        "time": 3.055,
+        "action": "ime_update",
+        "content": "和"
+      },
+      {
+        "time": 3.056,
+        "action": "type",
+        "content": "和",
+        "method": "ime"
+      },
+      {
+        "time": 3.304,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 3.678,
+        "action": "ime_update",
+        "content": "s'm"
+      },
+      {
+        "time": 4.469,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 4.806,
+        "action": "ime_update",
+        "content": "sh"
+      },
+      {
+        "time": 4.917,
+        "action": "ime_update",
+        "content": "she"
+      },
+      {
+        "time": 4.985,
+        "action": "ime_update",
+        "content": "shen"
+      },
+      {
+        "time": 5.331,
+        "action": "ime_update",
+        "content": "shen'm"
+      },
+      {
+        "time": 5.922,
+        "action": "ime_update",
+        "content": "审美"
+      },
+      {
+        "time": 5.924,
+        "action": "type",
+        "content": "审美",
+        "method": "ime"
+      },
+      {
+        "time": 6.056,
+        "action": "ime_update",
+        "content": "d"
+      },
+      {
+        "time": 6.135,
+        "action": "ime_update",
+        "content": "的"
+      },
+      {
+        "time": 6.137,
+        "action": "type",
+        "content": "的",
+        "method": "ime"
+      },
+      {
+        "time": 7.23,
+        "action": "ime_update",
+        "content": "b"
+      },
+      {
+        "time": 7.298,
+        "action": "ime_update",
+        "content": "bu"
+      },
+      {
+        "time": 7.529,
+        "action": "ime_update",
+        "content": "bu't"
+      },
+      {
+        "time": 7.593,
+        "action": "ime_update",
+        "content": "bu'to"
+      },
+      {
+        "time": 7.698,
+        "action": "ime_update",
+        "content": "bu'ton"
+      },
+      {
+        "time": 7.993,
+        "action": "ime_update",
+        "content": "bu'tong"
+      },
+      {
+        "time": 8.214,
+        "action": "ime_update",
+        "content": "不同"
+      },
+      {
+        "time": 8.216,
+        "action": "type",
+        "content": "不同",
+        "method": "ime"
+      },
+      {
+        "time": 8.536,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 8.538,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 8.54,
+        "action": "type",
+        "content": "，",
+        "method": "ime"
+      },
+      {
+        "time": 8.878,
+        "action": "ime_update",
+        "content": "j"
+      },
+      {
+        "time": 9.056,
+        "action": "ime_update",
+        "content": "ju"
+      },
+      {
+        "time": 9.212,
+        "action": "ime_update",
+        "content": "jue"
+      },
+      {
+        "time": 9.441,
+        "action": "ime_update",
+        "content": "jue'd"
+      },
+      {
+        "time": 9.519,
+        "action": "ime_update",
+        "content": "jue'di"
+      },
+      {
+        "time": 9.652,
+        "action": "ime_update",
+        "content": "jue'din"
+      },
+      {
+        "time": 9.984,
+        "action": "ime_update",
+        "content": "jue'ding"
+      },
+      {
+        "time": 10.241,
+        "action": "ime_update",
+        "content": "决定"
+      },
+      {
+        "time": 10.243,
+        "action": "type",
+        "content": "决定",
+        "method": "ime"
+      },
+      {
+        "time": 10.384,
+        "action": "ime_update",
+        "content": "l"
+      },
+      {
+        "time": 10.485,
+        "action": "ime_update",
+        "content": "了"
+      },
+      {
+        "time": 10.487,
+        "action": "type",
+        "content": "了",
+        "method": "ime"
+      },
+      {
+        "time": 10.876,
+        "action": "ime_update",
+        "content": "n"
+      },
+      {
+        "time": 10.99,
+        "action": "ime_update",
+        "content": "ni"
+      },
+      {
+        "time": 11.363,
+        "action": "ime_update",
+        "content": "你"
+      },
+      {
+        "time": 11.364,
+        "action": "type",
+        "content": "你",
+        "method": "ime"
+      },
+      {
+        "time": 11.74,
+        "action": "ime_update",
+        "content": "y"
+      },
+      {
+        "time": 11.807,
+        "action": "ime_update",
+        "content": "ya"
+      },
+      {
+        "time": 11.915,
+        "action": "ime_update",
+        "content": "yan"
+      },
+      {
+        "time": 12.169,
+        "action": "ime_update",
+        "content": "yan'z"
+      },
+      {
+        "time": 12.207,
+        "action": "ime_update",
+        "content": "yan'zh"
+      },
+      {
+        "time": 12.292,
+        "action": "ime_update",
+        "content": "yan'zho"
+      },
+      {
+        "time": 12.387,
+        "action": "ime_update",
+        "content": "yan'zho'g"
+      },
+      {
+        "time": 12.411,
+        "action": "ime_update",
+        "content": "yan'zhogn"
+      },
+      {
+        "time": 13.027,
+        "action": "ime_update",
+        "content": "眼中"
+      },
+      {
+        "time": 13.03,
+        "action": "type",
+        "content": "眼中",
+        "method": "ime"
+      },
+      {
+        "time": 13.443,
+        "action": "ime_update",
+        "content": "d"
+      },
+      {
+        "time": 13.541,
+        "action": "ime_update",
+        "content": "的"
+      },
+      {
+        "time": 13.542,
+        "action": "type",
+        "content": "的",
+        "method": "ime"
+      },
+      {
+        "time": 14.047,
+        "action": "ime_update",
+        "content": "f"
+      },
+      {
+        "time": 14.549,
+        "action": "ime_update",
+        "content": "f'j"
+      },
+      {
+        "time": 14.952,
+        "action": "ime_update",
+        "content": "风景"
+      },
+      {
+        "time": 14.955,
+        "action": "type",
+        "content": "风景",
+        "method": "ime"
+      },
+      {
+        "time": 15.441,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 16.011,
+        "action": "ime_update",
+        "content": "是"
+      },
+      {
+        "time": 16.014,
+        "action": "type",
+        "content": "是",
+        "method": "ime"
+      },
+      {
+        "time": 16.192,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 16.325,
+        "action": "ime_update",
+        "content": "s'm"
+      },
+      {
+        "time": 16.927,
+        "action": "ime_update",
+        "content": "什么"
+      },
+      {
+        "time": 16.929,
+        "action": "type",
+        "content": "什么",
+        "method": "ime"
+      },
+      {
+        "time": 17.636,
+        "action": "ime_update",
+        "content": "m"
+      },
+      {
+        "time": 18.058,
+        "action": "ime_update",
+        "content": "mu"
+      },
+      {
+        "time": 18.291,
+        "action": "ime_update",
+        "content": "mu'y"
+      },
+      {
+        "time": 18.823,
+        "action": "ime_update",
+        "content": "模样"
+      },
+      {
+        "time": 18.826,
+        "action": "type",
+        "content": "模样",
+        "method": "ime"
+      },
+      {
+        "time": 19.481,
+        "action": "ime_update",
+        "content": "。"
+      },
+      {
+        "time": 19.483,
+        "action": "ime_update",
+        "content": "。"
+      },
+      {
+        "time": 19.484,
+        "action": "type",
+        "content": "。",
+        "method": "ime"
+      }
+    ],
+    "source": "crawl"
+  },
+  {
+    "target": "同事虽然答应，但下一次聊天时，她还是不谈旅途见闻，张口闭口工作进展、单位琐事。",
+    "final_output": "同事虽然答应，但下一次聊天时，她还是不谈旅途见闻，张口闭口工作进展、单位琐事。",
+    "typing_log": [
+      {
+        "time": 0,
+        "action": "ime_update",
+        "content": "t"
+      },
+      {
+        "time": 0.026,
+        "action": "ime_update",
+        "content": "to"
+      },
+      {
+        "time": 0.235,
+        "action": "ime_update",
+        "content": "ton"
+      },
+      {
+        "time": 0.246,
+        "action": "ime_update",
+        "content": "tong"
+      },
+      {
+        "time": 0.442,
+        "action": "ime_update",
+        "content": "tong's"
+      },
+      {
+        "time": 0.515,
+        "action": "ime_update",
+        "content": "tong'sh"
+      },
+      {
+        "time": 0.57,
+        "action": "ime_update",
+        "content": "tong'shi"
+      },
+      {
+        "time": 1.317,
+        "action": "ime_update",
+        "content": "同事"
+      },
+      {
+        "time": 1.318,
+        "action": "type",
+        "content": "同事",
+        "method": "ime"
+      },
+      {
+        "time": 1.784,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 1.872,
+        "action": "ime_update",
+        "content": "su"
+      },
+      {
+        "time": 1.934,
+        "action": "ime_update",
+        "content": "sui"
+      },
+      {
+        "time": 2.1,
+        "action": "ime_update",
+        "content": "sui'r"
+      },
+      {
+        "time": 2.214,
+        "action": "ime_update",
+        "content": "sui'ra"
+      },
+      {
+        "time": 2.305,
+        "action": "ime_update",
+        "content": "sui'ran"
+      },
+      {
+        "time": 2.433,
+        "action": "ime_update",
+        "content": "虽然"
+      },
+      {
+        "time": 2.434,
+        "action": "type",
+        "content": "虽然",
+        "method": "ime"
+      },
+      {
+        "time": 2.7,
+        "action": "ime_update",
+        "content": "d"
+      },
+      {
+        "time": 2.794,
+        "action": "ime_update",
+        "content": "da"
+      },
+      {
+        "time": 2.976,
+        "action": "ime_update",
+        "content": "da'y"
+      },
+      {
+        "time": 3.101,
+        "action": "ime_update",
+        "content": "da'yi"
+      },
+      {
+        "time": 3.27,
+        "action": "ime_update",
+        "content": "da'yin"
+      },
+      {
+        "time": 3.35,
+        "action": "ime_update",
+        "content": "da'ying"
+      },
+      {
+        "time": 3.716,
+        "action": "ime_update",
+        "content": "答应"
+      },
+      {
+        "time": 3.718,
+        "action": "type",
+        "content": "答应",
+        "method": "ime"
+      },
+      {
+        "time": 3.997,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 3.998,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 3.999,
+        "action": "type",
+        "content": "，",
+        "method": "ime"
+      },
+      {
+        "time": 4.248,
+        "action": "ime_update",
+        "content": "d"
+      },
+      {
+        "time": 4.353,
+        "action": "ime_update",
+        "content": "da"
+      },
+      {
+        "time": 4.455,
+        "action": "ime_update",
+        "content": "dan"
+      },
+      {
+        "time": 4.888,
+        "action": "ime_update",
+        "content": "但"
+      },
+      {
+        "time": 4.89,
+        "action": "type",
+        "content": "但",
+        "method": "ime"
+      },
+      {
+        "time": 5.094,
+        "action": "ime_update",
+        "content": "x"
+      },
+      {
+        "time": 5.167,
+        "action": "ime_update",
+        "content": "xi"
+      },
+      {
+        "time": 5.3,
+        "action": "ime_update",
+        "content": "xia"
+      },
+      {
+        "time": 5.393,
+        "action": "ime_update",
+        "content": "xia'y"
+      },
+      {
+        "time": 5.48,
+        "action": "ime_update",
+        "content": "xia'yi"
+      },
+      {
+        "time": 5.869,
+        "action": "ime_update",
+        "content": "xia'yi'c"
+      },
+      {
+        "time": 5.967,
+        "action": "ime_update",
+        "content": "xia'yi'ci"
+      },
+      {
+        "time": 6.159,
+        "action": "ime_update",
+        "content": "下一次"
+      },
+      {
+        "time": 6.161,
+        "action": "type",
+        "content": "下一次",
+        "method": "ime"
+      },
+      {
+        "time": 6.433,
+        "action": "ime_update",
+        "content": "l"
+      },
+      {
+        "time": 6.632,
+        "action": "ime_update",
+        "content": "li"
+      },
+      {
+        "time": 6.711,
+        "action": "ime_update",
+        "content": "lia"
+      },
+      {
+        "time": 6.974,
+        "action": "ime_update",
+        "content": "liao"
+      },
+      {
+        "time": 7.286,
+        "action": "ime_update",
+        "content": "liao't"
+      },
+      {
+        "time": 7.337,
+        "action": "ime_update",
+        "content": "liao'ti"
+      },
+      {
+        "time": 7.412,
+        "action": "ime_update",
+        "content": "liao'tia"
+      },
+      {
+        "time": 7.465,
+        "action": "ime_update",
+        "content": "liao'tian"
+      },
+      {
+        "time": 7.935,
+        "action": "ime_update",
+        "content": "聊天"
+      },
+      {
+        "time": 7.937,
+        "action": "type",
+        "content": "聊天",
+        "method": "ime"
+      },
+      {
+        "time": 8.241,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 8.327,
+        "action": "ime_update",
+        "content": "sh"
+      },
+      {
+        "time": 8.372,
+        "action": "ime_update",
+        "content": "shi"
+      },
+      {
+        "time": 9.074,
+        "action": "ime_update",
+        "content": "时"
+      },
+      {
+        "time": 9.077,
+        "action": "type",
+        "content": "时",
+        "method": "ime"
+      },
+      {
+        "time": 9.552,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 9.553,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 9.555,
+        "action": "type",
+        "content": "，",
+        "method": "ime"
+      },
+      {
+        "time": 10.061,
+        "action": "ime_update",
+        "content": "t"
+      },
+      {
+        "time": 10.275,
+        "action": "ime_update",
+        "content": "ta"
+      },
+      {
+        "time": 10.976,
+        "action": "ime_update",
+        "content": "她"
+      },
+      {
+        "time": 10.979,
+        "action": "type",
+        "content": "她",
+        "method": "ime"
+      },
+      {
+        "time": 11.136,
+        "action": "ime_update",
+        "content": "h"
+      },
+      {
+        "time": 11.215,
+        "action": "ime_update",
+        "content": "ha"
+      },
+      {
+        "time": 11.287,
+        "action": "ime_update",
+        "content": "hai"
+      },
+      {
+        "time": 11.415,
+        "action": "ime_update",
+        "content": "hai's"
+      },
+      {
+        "time": 11.479,
+        "action": "ime_update",
+        "content": "hai'sh"
+      },
+      {
+        "time": 11.541,
+        "action": "ime_update",
+        "content": "hai'shi"
+      },
+      {
+        "time": 11.67,
+        "action": "ime_update",
+        "content": "还是"
+      },
+      {
+        "time": 11.672,
+        "action": "type",
+        "content": "还是",
+        "method": "ime"
+      },
+      {
+        "time": 12.088,
+        "action": "ime_update",
+        "content": "b"
+      },
+      {
+        "time": 12.182,
+        "action": "ime_update",
+        "content": "bu"
+      },
+      {
+        "time": 12.471,
+        "action": "ime_update",
+        "content": "bu't"
+      },
+      {
+        "time": 12.677,
+        "action": "ime_update",
+        "content": "bu'ta"
+      },
+      {
+        "time": 12.849,
+        "action": "ime_update",
+        "content": "bu'tan"
+      },
+      {
+        "time": 13.24,
+        "action": "ime_update",
+        "content": "不谈"
+      },
+      {
+        "time": 13.242,
+        "action": "type",
+        "content": "不谈",
+        "method": "ime"
+      },
+      {
+        "time": 13.701,
+        "action": "ime_update",
+        "content": "l"
+      },
+      {
+        "time": 13.963,
+        "action": "ime_update",
+        "content": "lü"
+      },
+      {
+        "time": 14.276,
+        "action": "ime_update",
+        "content": "lü't"
+      },
+      {
+        "time": 14.338,
+        "action": "ime_update",
+        "content": "lü'tu"
+      },
+      {
+        "time": 14.724,
+        "action": "ime_update",
+        "content": "旅途"
+      },
+      {
+        "time": 14.727,
+        "action": "type",
+        "content": "旅途",
+        "method": "ime"
+      },
+      {
+        "time": 15.095,
+        "action": "ime_update",
+        "content": "j"
+      },
+      {
+        "time": 15.169,
+        "action": "ime_update",
+        "content": "ji"
+      },
+      {
+        "time": 15.192,
+        "action": "ime_update",
+        "content": "jia"
+      },
+      {
+        "time": 15.289,
+        "action": "ime_update",
+        "content": "jian"
+      },
+      {
+        "time": 15.447,
+        "action": "ime_update",
+        "content": "jian'w"
+      },
+      {
+        "time": 15.513,
+        "action": "ime_update",
+        "content": "jian'we"
+      },
+      {
+        "time": 15.584,
+        "action": "ime_update",
+        "content": "jian'wen"
+      },
+      {
+        "time": 15.873,
+        "action": "ime_update",
+        "content": "见闻"
+      },
+      {
+        "time": 15.876,
+        "action": "type",
+        "content": "见闻",
+        "method": "ime"
+      },
+      {
+        "time": 16.189,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 16.191,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 16.193,
+        "action": "type",
+        "content": "，",
+        "method": "ime"
+      },
+      {
+        "time": 16.753,
+        "action": "ime_update",
+        "content": "z"
+      },
+      {
+        "time": 16.812,
+        "action": "ime_update",
+        "content": "zh"
+      },
+      {
+        "time": 16.902,
+        "action": "ime_update",
+        "content": "zha"
+      },
+      {
+        "time": 16.935,
+        "action": "ime_update",
+        "content": "zhan"
+      },
+      {
+        "time": 17.092,
+        "action": "ime_update",
+        "content": "zhang"
+      },
+      {
+        "time": 17.327,
+        "action": "ime_update",
+        "content": "zhang'k"
+      },
+      {
+        "time": 17.489,
+        "action": "ime_update",
+        "content": "zhang'ko"
+      },
+      {
+        "time": 17.577,
+        "action": "ime_update",
+        "content": "zhang'kou"
+      },
+      {
+        "time": 17.808,
+        "action": "ime_update",
+        "content": "zhang'kou'b"
+      },
+      {
+        "time": 18.173,
+        "action": "ime_update",
+        "content": "zhang'kou'b'k"
+      },
+      {
+        "time": 18.576,
+        "action": "ime_update",
+        "content": "张口闭口"
+      },
+      {
+        "time": 18.58,
+        "action": "type",
+        "content": "张口闭口",
+        "method": "ime"
+      },
+      {
+        "time": 19.31,
+        "action": "ime_update",
+        "content": "g"
+      },
+      {
+        "time": 19.362,
+        "action": "ime_update",
+        "content": "go"
+      },
+      {
+        "time": 19.454,
+        "action": "ime_update",
+        "content": "gon"
+      },
+      {
+        "time": 19.583,
+        "action": "ime_update",
+        "content": "gong"
+      },
+      {
+        "time": 19.759,
+        "action": "ime_update",
+        "content": "gong'z"
+      },
+      {
+        "time": 19.81,
+        "action": "ime_update",
+        "content": "gong'zu"
+      },
+      {
+        "time": 19.878,
+        "action": "ime_update",
+        "content": "gong'zuo"
+      },
+      {
+        "time": 20.34,
+        "action": "ime_update",
+        "content": "工作"
+      },
+      {
+        "time": 20.342,
+        "action": "type",
+        "content": "工作",
+        "method": "ime"
+      },
+      {
+        "time": 20.644,
+        "action": "ime_update",
+        "content": "j"
+      },
+      {
+        "time": 20.741,
+        "action": "ime_update",
+        "content": "ji"
+      },
+      {
+        "time": 20.881,
+        "action": "ime_update",
+        "content": "jin"
+      },
+      {
+        "time": 20.964,
+        "action": "ime_update",
+        "content": "jin'x"
+      },
+      {
+        "time": 21.373,
+        "action": "ime_update",
+        "content": "jin'x'z"
+      },
+      {
+        "time": 21.577,
+        "action": "ime_update",
+        "content": "jin'x"
+      },
+      {
+        "time": 21.761,
+        "action": "ime_update",
+        "content": "jin"
+      },
+      {
+        "time": 21.866,
+        "action": "ime_update",
+        "content": "jin'z"
+      },
+      {
+        "time": 23.303,
+        "action": "ime_update",
+        "content": "进展"
+      },
+      {
+        "time": 23.307,
+        "action": "type",
+        "content": "进展",
+        "method": "ime"
+      },
+      {
+        "time": 24.588,
+        "action": "ime_update",
+        "content": "、"
+      },
+      {
+        "time": 24.59,
+        "action": "ime_update",
+        "content": "、"
+      },
+      {
+        "time": 24.592,
+        "action": "type",
+        "content": "、",
+        "method": "ime"
+      },
+      {
+        "time": 24.749,
+        "action": "ime_update",
+        "content": "d"
+      },
+      {
+        "time": 24.831,
+        "action": "ime_update",
+        "content": "da"
+      },
+      {
+        "time": 24.942,
+        "action": "ime_update",
+        "content": "dan"
+      },
+      {
+        "time": 25.052,
+        "action": "ime_update",
+        "content": "dan'w"
+      },
+      {
+        "time": 25.12,
+        "action": "ime_update",
+        "content": "dan'we"
+      },
+      {
+        "time": 25.179,
+        "action": "ime_update",
+        "content": "dan'wei"
+      },
+      {
+        "time": 25.453,
+        "action": "ime_update",
+        "content": "单位"
+      },
+      {
+        "time": 25.456,
+        "action": "type",
+        "content": "单位",
+        "method": "ime"
+      },
+      {
+        "time": 25.676,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 25.766,
+        "action": "ime_update",
+        "content": "su"
+      },
+      {
+        "time": 25.829,
+        "action": "ime_update",
+        "content": "suo"
+      },
+      {
+        "time": 26.055,
+        "action": "ime_update",
+        "content": "suo's"
+      },
+      {
+        "time": 26.107,
+        "action": "ime_update",
+        "content": "suo'sh"
+      },
+      {
+        "time": 26.171,
+        "action": "ime_update",
+        "content": "suo'shi"
+      },
+      {
+        "time": 26.678,
+        "action": "ime_update",
+        "content": "琐事"
+      },
+      {
+        "time": 26.681,
+        "action": "type",
+        "content": "琐事",
+        "method": "ime"
+      },
+      {
+        "time": 27.335,
+        "action": "ime_update",
+        "content": "。"
+      },
+      {
+        "time": 27.337,
+        "action": "ime_update",
+        "content": "。"
+      },
+      {
+        "time": 27.339,
+        "action": "type",
+        "content": "。",
+        "method": "ime"
+      }
+    ],
+    "source": "crawl"
+  },
+  {
+    "target": "所以，不要奢望用山水来摆脱浮躁的心境，山水，只有在心里有风景的人眼里才会清丽动人、美不胜收。",
+    "final_output": "所以，不要奢望用山水来摆脱浮躁的心境，山水，只有在心里有风景的人眼里才会清丽动人、美不胜收。",
+    "typing_log": [
+      {
+        "time": 0,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 0.011,
+        "action": "ime_update",
+        "content": "su"
+      },
+      {
+        "time": 0.2,
+        "action": "ime_update",
+        "content": "suo"
+      },
+      {
+        "time": 0.585,
+        "action": "ime_update",
+        "content": "suo'y"
+      },
+      {
+        "time": 0.709,
+        "action": "ime_update",
+        "content": "suo'yo"
+      },
+      {
+        "time": 1.15,
+        "action": "ime_update",
+        "content": "suo'y"
+      },
+      {
+        "time": 1.382,
+        "action": "ime_update",
+        "content": "suo'yi"
+      },
+      {
+        "time": 1.509,
+        "action": "ime_update",
+        "content": "所以"
+      },
+      {
+        "time": 1.511,
+        "action": "type",
+        "content": "所以",
+        "method": "ime"
+      },
+      {
+        "time": 2.067,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 2.068,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 2.068,
+        "action": "type",
+        "content": "，",
+        "method": "ime"
+      },
+      {
+        "time": 2.349,
+        "action": "ime_update",
+        "content": "b"
+      },
+      {
+        "time": 2.41,
+        "action": "ime_update",
+        "content": "bu"
+      },
+      {
+        "time": 2.638,
+        "action": "ime_update",
+        "content": "bu'y"
+      },
+      {
+        "time": 2.737,
+        "action": "ime_update",
+        "content": "bu'ya"
+      },
+      {
+        "time": 2.801,
+        "action": "ime_update",
+        "content": "bu'yao"
+      },
+      {
+        "time": 2.961,
+        "action": "ime_update",
+        "content": "不要"
+      },
+      {
+        "time": 2.962,
+        "action": "type",
+        "content": "不要",
+        "method": "ime"
+      },
+      {
+        "time": 3.479,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 3.553,
+        "action": "ime_update",
+        "content": "sh"
+      },
+      {
+        "time": 3.656,
+        "action": "ime_update",
+        "content": "she"
+      },
+      {
+        "time": 3.856,
+        "action": "ime_update",
+        "content": "she'w"
+      },
+      {
+        "time": 4.021,
+        "action": "ime_update",
+        "content": "she'wa"
+      },
+      {
+        "time": 4.11,
+        "action": "ime_update",
+        "content": "she'wan"
+      },
+      {
+        "time": 4.281,
+        "action": "ime_update",
+        "content": "she'wang"
+      },
+      {
+        "time": 4.334,
+        "action": "ime_update",
+        "content": "奢望"
+      },
+      {
+        "time": 4.336,
+        "action": "type",
+        "content": "奢望",
+        "method": "ime"
+      },
+      {
+        "time": 5.266,
+        "action": "ime_update",
+        "content": "y"
+      },
+      {
+        "time": 5.386,
+        "action": "ime_update",
+        "content": "yo"
+      },
+      {
+        "time": 5.486,
+        "action": "ime_update",
+        "content": "yon"
+      },
+      {
+        "time": 5.547,
+        "action": "ime_update",
+        "content": "yong"
+      },
+      {
+        "time": 5.753,
+        "action": "ime_update",
+        "content": "用"
+      },
+      {
+        "time": 5.755,
+        "action": "type",
+        "content": "用",
+        "method": "ime"
+      },
+      {
+        "time": 5.973,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 6.046,
+        "action": "ime_update",
+        "content": "sh"
+      },
+      {
+        "time": 6.105,
+        "action": "ime_update",
+        "content": "sha"
+      },
+      {
+        "time": 6.189,
+        "action": "ime_update",
+        "content": "shan"
+      },
+      {
+        "time": 6.331,
+        "action": "ime_update",
+        "content": "shan's"
+      },
+      {
+        "time": 6.401,
+        "action": "ime_update",
+        "content": "shan'sh"
+      },
+      {
+        "time": 6.526,
+        "action": "ime_update",
+        "content": "shan'shu"
+      },
+      {
+        "time": 6.629,
+        "action": "ime_update",
+        "content": "shan'shui"
+      },
+      {
+        "time": 6.75,
+        "action": "ime_update",
+        "content": "山水"
+      },
+      {
+        "time": 6.752,
+        "action": "type",
+        "content": "山水",
+        "method": "ime"
+      },
+      {
+        "time": 6.981,
+        "action": "ime_update",
+        "content": "l"
+      },
+      {
+        "time": 7.098,
+        "action": "ime_update",
+        "content": "la"
+      },
+      {
+        "time": 7.194,
+        "action": "ime_update",
+        "content": "lai"
+      },
+      {
+        "time": 7.353,
+        "action": "ime_update",
+        "content": "来"
+      },
+      {
+        "time": 7.354,
+        "action": "type",
+        "content": "来",
+        "method": "ime"
+      },
+      {
+        "time": 7.609,
+        "action": "ime_update",
+        "content": "b"
+      },
+      {
+        "time": 7.719,
+        "action": "ime_update",
+        "content": "ba"
+      },
+      {
+        "time": 7.836,
+        "action": "ime_update",
+        "content": "bai"
+      },
+      {
+        "time": 8.078,
+        "action": "ime_update",
+        "content": "bai't"
+      },
+      {
+        "time": 8.183,
+        "action": "ime_update",
+        "content": "bai'tu"
+      },
+      {
+        "time": 8.296,
+        "action": "ime_update",
+        "content": "bai'tuo"
+      },
+      {
+        "time": 8.697,
+        "action": "ime_update",
+        "content": "拜托"
+      },
+      {
+        "time": 8.699,
+        "action": "type",
+        "content": "拜托",
+        "method": "ime"
+      },
+      {
+        "time": 9.046,
+        "action": "delete",
+        "deleted": "托"
+      },
+      {
+        "time": 9.158,
+        "action": "delete",
+        "deleted": "拜"
+      },
+      {
+        "time": 9.396,
+        "action": "ime_update",
+        "content": "b"
+      },
+      {
+        "time": 9.454,
+        "action": "ime_update",
+        "content": "ba"
+      },
+      {
+        "time": 9.527,
+        "action": "ime_update",
+        "content": "bai"
+      },
+      {
+        "time": 9.709,
+        "action": "ime_update",
+        "content": "bai't"
+      },
+      {
+        "time": 9.738,
+        "action": "ime_update",
+        "content": "bai'tu"
+      },
+      {
+        "time": 9.83,
+        "action": "ime_update",
+        "content": "bai'tuo"
+      },
+      {
+        "time": 10.203,
+        "action": "ime_update",
+        "content": "摆脱"
+      },
+      {
+        "time": 10.206,
+        "action": "type",
+        "content": "摆脱",
+        "method": "ime"
+      },
+      {
+        "time": 10.983,
+        "action": "ime_update",
+        "content": "f"
+      },
+      {
+        "time": 11.089,
+        "action": "ime_update",
+        "content": "fu"
+      },
+      {
+        "time": 11.323,
+        "action": "ime_update",
+        "content": "fu'z"
+      },
+      {
+        "time": 11.476,
+        "action": "ime_update",
+        "content": "fu'za"
+      },
+      {
+        "time": 11.588,
+        "action": "ime_update",
+        "content": "fu'zao"
+      },
+      {
+        "time": 11.865,
+        "action": "ime_update",
+        "content": "浮躁"
+      },
+      {
+        "time": 11.867,
+        "action": "type",
+        "content": "浮躁",
+        "method": "ime"
+      },
+      {
+        "time": 12.025,
+        "action": "ime_update",
+        "content": "d"
+      },
+      {
+        "time": 12.109,
+        "action": "ime_update",
+        "content": "的"
+      },
+      {
+        "time": 12.111,
+        "action": "type",
+        "content": "的",
+        "method": "ime"
+      },
+      {
+        "time": 12.492,
+        "action": "ime_update",
+        "content": "x"
+      },
+      {
+        "time": 12.549,
+        "action": "ime_update",
+        "content": "xi"
+      },
+      {
+        "time": 12.677,
+        "action": "ime_update",
+        "content": "xin"
+      },
+      {
+        "time": 12.886,
+        "action": "ime_update",
+        "content": "xin'j"
+      },
+      {
+        "time": 13.43,
+        "action": "ime_update",
+        "content": "心境"
+      },
+      {
+        "time": 13.432,
+        "action": "type",
+        "content": "心境",
+        "method": "ime"
+      },
+      {
+        "time": 13.579,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 13.58,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 13.582,
+        "action": "type",
+        "content": "，",
+        "method": "ime"
+      },
+      {
+        "time": 14.111,
+        "action": "ime_update",
+        "content": "s"
+      },
+      {
+        "time": 14.229,
+        "action": "ime_update",
+        "content": "sh"
+      },
+      {
+        "time": 14.265,
+        "action": "ime_update",
+        "content": "sha"
+      },
+      {
+        "time": 14.375,
+        "action": "ime_update",
+        "content": "shan"
+      },
+      {
+        "time": 14.622,
+        "action": "ime_update",
+        "content": "shan's"
+      },
+      {
+        "time": 15.041,
+        "action": "ime_update",
+        "content": "山水"
+      },
+      {
+        "time": 15.043,
+        "action": "type",
+        "content": "山水",
+        "method": "ime"
+      },
+      {
+        "time": 15.526,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 15.527,
+        "action": "ime_update",
+        "content": "，"
+      },
+      {
+        "time": 15.529,
+        "action": "type",
+        "content": "，",
+        "method": "ime"
+      },
+      {
+        "time": 15.939,
+        "action": "ime_update",
+        "content": "z"
+      },
+      {
+        "time": 15.983,
+        "action": "ime_update",
+        "content": "zh"
+      },
+      {
+        "time": 16.07,
+        "action": "ime_update",
+        "content": "zhi"
+      },
+      {
+        "time": 16.231,
+        "action": "ime_update",
+        "content": "zhi'y"
+      },
+      {
+        "time": 16.731,
+        "action": "ime_update",
+        "content": "只要"
+      },
+      {
+        "time": 16.733,
+        "action": "type",
+        "content": "只要",
+        "method": "ime"
+      },
+      {
+        "time": 17.098,
+        "action": "delete",
+        "deleted": "要"
+      },
+      {
+        "time": 17.212,
+        "action": "delete",
+        "deleted": "只"
+      },
+      {
+        "time": 17.401,
+        "action": "ime_update",
+        "content": "z"
+      },
+      {
+        "time": 17.496,
+        "action": "ime_update",
+        "content": "zh"
+      },
+      {
+        "time": 17.542,
+        "action": "ime_update",
+        "content": "zhi"
+      },
+      {
+        "time": 17.699,
+        "action": "ime_update",
+        "content": "zhi'y"
+      },
+      {
+        "time": 17.949,
+        "action": "ime_update",
+        "content": "只有"
+      },
+      {
+        "time": 17.952,
+        "action": "type",
+        "content": "只有",
+        "method": "ime"
+      },
+      {
+        "time": 18.683,
+        "action": "ime_update",
+        "content": "z"
+      },
+      {
+        "time": 19.035,
+        "action": "ime_update",
+        "content": "za"
+      },
+      {
+        "time": 19.238,
+        "action": "ime_update",
+        "content": "zai"
+      },
+      {
+        "time": 19.417,
+        "action": "ime_update",
+        "content": "在"
+      },
+      {
+        "time": 19.42,
+        "action": "type",
+        "content": "在",
+        "method": "ime"
+      },
+      {
+        "time": 19.731,
+        "action": "ime_update",
+        "content": "x"
+      },
+      {
+        "time": 19.794,
+        "action": "ime_update",
+        "content": "xi"
+      },
+      {
+        "time": 19.894,
+        "action": "ime_update",
+        "content": "xin"
+      },
+      {
+        "time": 20.081,
+        "action": "ime_update",
+        "content": "xin'l"
+      },
+      {
+        "time": 20.202,
+        "action": "ime_update",
+        "content": "xin'li"
+      },
+      {
+        "time": 20.389,
+        "action": "ime_update",
+        "content": "心里"
+      },
+      {
+        "time": 20.392,
+        "action": "type",
+        "content": "心里",
+        "method": "ime"
+      },
+      {
+        "time": 20.573,
+        "action": "ime_update",
+        "content": "y"
+      },
+      {
+        "time": 20.688,
+        "action": "ime_update",
+        "content": "yo"
+      },
+      {
+        "time": 20.794,
+        "action": "ime_update",
+        "content": "you"
+      },
+      {
+        "time": 20.927,
+        "action": "ime_update",
+        "content": "有"
+      },
+      {
+        "time": 20.93,
+        "action": "type",
+        "content": "有",
+        "method": "ime"
+      },
+      {
+        "time": 21.11,
+        "action": "ime_update",
+        "content": "f"
+      },
+      {
+        "time": 21.167,
+        "action": "ime_update",
+        "content": "fe"
+      },
+      {
+        "time": 21.258,
+        "action": "ime_update",
+        "content": "fen"
+      },
+      {
+        "time": 21.384,
+        "action": "ime_update",
+        "content": "feng"
+      },
+      {
+        "time": 21.49,
+        "action": "ime_update",
+        "content": "feng'j"
+      },
+      {
+        "time": 21.573,
+        "action": "ime_update",
+        "content": "feng'ji"
+      },
+      {
+        "time": 21.681,
+        "action": "ime_update",
+        "content": "feng'jin"
+      },
+      {
+        "time": 21.745,
+        "action": "ime_update",
+        "content": "feng'jing"
+      },
+      {
+        "time": 22.061,
+        "action": "ime_update",
+        "content": "风景"
+      },
+      {
+        "time": 22.065,
+        "action": "type",
+        "content": "风景",
+        "method": "ime"
+      },
+      {
+        "time": 22.225,
+        "action": "ime_update",
+        "content": "d"
+      },
+      {
+        "time": 22.282,
+        "action": "ime_update",
+        "content": "的"
+      },
+      {
+        "time": 22.285,
+        "action": "type",
+        "content": "的",
+        "method": "ime"
+      },
+      {
+        "time": 22.616,
+        "action": "ime_update",
+        "content": "r"
+      },
+      {
+        "time": 22.711,
+        "action": "ime_update",
+        "content": "re"
+      },
+      {
+        "time": 22.833,
+        "action": "ime_update",
+        "content": "ren"
+      },
+      {
+        "time": 23.294,
+        "action": "ime_update",
+        "content": "人"
+      },
+      {
+        "time": 23.298,
+        "action": "type",
+        "content": "人",
+        "method": "ime"
+      },
+      {
+        "time": 23.663,
+        "action": "ime_update",
+        "content": "y"
+      },
+      {
+        "time": 23.749,
+        "action": "ime_update",
+        "content": "ya"
+      },
+      {
+        "time": 23.837,
+        "action": "ime_update",
+        "content": "yan"
+      },
+      {
+        "time": 24.016,
+        "action": "ime_update",
+        "content": "yan'l"
+      },
+      {
+        "time": 24.154,
+        "action": "ime_update",
+        "content": "yan'li"
+      },
+      {
+        "time": 24.264,
+        "action": "ime_update",
+        "content": "眼里"
+      },
+      {
+        "time": 24.269,
+        "action": "type",
+        "content": "眼里",
+        "method": "ime"
+      },
+      {
+        "time": 24.569,
+        "action": "ime_update",
+        "content": "c"
+      },
+      {
+        "time": 24.691,
+        "action": "ime_update",
+        "content": "ca"
+      },
+      {
+        "time": 24.756,
+        "action": "ime_update",
+        "content": "cai"
+      },
+      {
+        "time": 24.956,
+        "action": "ime_update",
+        "content": "cai'h"
+      },
+      {
+        "time": 25.057,
+        "action": "ime_update",
+        "content": "cai'hu"
+      },
+      {
+        "time": 25.197,
+        "action": "ime_update",
+        "content": "cai'hui"
+      },
+      {
+        "time": 25.317,
+        "action": "ime_update",
+        "content": "才会"
+      },
+      {
+        "time": 25.32,
+        "action": "type",
+        "content": "才会",
+        "method": "ime"
+      },
+      {
+        "time": 25.666,
+        "action": "ime_update",
+        "content": "q"
+      },
+      {
+        "time": 25.733,
+        "action": "ime_update",
+        "content": "qi"
+      },
+      {
+        "time": 25.837,
+        "action": "ime_update",
+        "content": "qin"
+      },
+      {
+        "time": 25.933,
+        "action": "ime_update",
+        "content": "qing"
+      },
+      {
+        "time": 26.038,
+        "action": "ime_update",
+        "content": "qing'l"
+      },
+      {
+        "time": 26.175,
+        "action": "ime_update",
+        "content": "qing'li"
+      },
+      {
+        "time": 26.473,
+        "action": "ime_update",
+        "content": "qing'li'd"
+      },
+      {
+        "time": 26.532,
+        "action": "ime_update",
+        "content": "qing'li'do"
+      },
+      {
+        "time": 26.637,
+        "action": "ime_update",
+        "content": "qing'li'don"
+      },
+      {
+        "time": 26.699,
+        "action": "ime_update",
+        "content": "qing'li'dong"
+      },
+      {
+        "time": 27.02,
+        "action": "ime_update",
+        "content": "qing'li'dong'r"
+      },
+      {
+        "time": 27.461,
+        "action": "ime_update",
+        "content": "清丽动人"
+      },
+      {
+        "time": 27.468,
+        "action": "type",
+        "content": "清丽动人",
+        "method": "ime"
+      },
+      {
+        "time": 28.858,
+        "action": "ime_update",
+        "content": "、"
+      },
+      {
+        "time": 28.861,
+        "action": "ime_update",
+        "content": "、"
+      },
+      {
+        "time": 28.864,
+        "action": "type",
+        "content": "、",
+        "method": "ime"
+      },
+      {
+        "time": 29.201,
+        "action": "ime_update",
+        "content": "m"
+      },
+      {
+        "time": 29.509,
+        "action": "ime_update",
+        "content": "m'b"
+      },
+      {
+        "time": 29.656,
+        "action": "ime_update",
+        "content": "m'b's"
+      },
+      {
+        "time": 29.805,
+        "action": "ime_update",
+        "content": "m'b's's"
+      },
+      {
+        "time": 30.262,
+        "action": "ime_update",
+        "content": "美不胜收"
+      },
+      {
+        "time": 30.266,
+        "action": "type",
+        "content": "美不胜收",
+        "method": "ime"
+      },
+      {
+        "time": 30.943,
+        "action": "ime_update",
+        "content": "。"
+      },
+      {
+        "time": 30.946,
+        "action": "ime_update",
+        "content": "。"
+      },
+      {
+        "time": 30.948,
+        "action": "type",
+        "content": "。",
+        "method": "ime"
+      }
+    ],
+    "source": "crawl"
+  }
+]
