@@ -24,6 +24,8 @@
 
 参数是模型文件。
 
+程序使用Claude辅助编写。
+
 This Python program is a **Typing Behavior Simulator** based on a **Transformer Seq2Seq model**.
 
 It simulates the detailed actions and timing a human user takes to type a specific target text, including Pinyin input, character/word confirmation, and deletions.
